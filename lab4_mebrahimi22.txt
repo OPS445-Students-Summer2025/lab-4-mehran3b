@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: mehran
+    Linux system name: mehran-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/mehran/ops445/lab4
+    Start at: Mon Jun  2 11:57:03 2025
+=================================================================
